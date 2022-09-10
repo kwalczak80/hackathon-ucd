@@ -5,3 +5,7 @@ body {
 #hero-image{
     height: 50vh;
 }
+
+.form-section {
+    text-align: center;
+}
